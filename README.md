@@ -7,13 +7,19 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 
 * Run Teal
   * [**tl**](https://github.com/teal-language/tl) - the Teal compiler!
-  * [**teal-playground**](https://github.com/teal-language/teal-playground) - try Teal right from your browser!
-  * [**tealdoc**](https://github.com/teal-language/tealdoc) - Teal documentation tool!
-  * [**teal-cli**](https://github.com/euclidianAce/teal-cli) - "An unofficial command line interface to the Teal compiler", an experimental alternative CLI
   * [**cyan**](https://github.com/teal-language/cyan) - The Teal build system and project manager
+  * [**teal-cli**](https://github.com/euclidianAce/teal-cli) - "An unofficial command line interface to the Teal compiler", an experimental alternative CLI
   * [**tlcheck**](https://github.com/svermeulen/tlcheck) - Simple command line tool to type check a given teal file/directory
   * [**tluvit**](https://github.com/UrNightmaree/tluvit) - A Teal (.tl) runner for the [Luvit](https://luvit.io) Runtime
   * [**buck2_lua_rules**](https://github.com/svermeulen/buck2_lua_rules) - Support for using [Buck2](https://github.com/facebook/buck2) to build and run lua / tl scripts (alternative to cyan)
+  * [**teal-playground**](https://github.com/teal-language/teal-playground) - try Teal right from your browser!
+
+* Formatters
+  * [**Cerulean**](https://github.com/efredriksson/cerulean)
+  * [**tlfmt**](https://codeberg.org/KMIJPH/tlfmt)
+
+* Documentation
+  * [**tealdoc**](https://github.com/teal-language/tealdoc) - Teal documentation tool
 
 * Parsing
   * [**tree-sitter-teal**](https://github.com/euclidianAce/tree-sitter-teal) - A
