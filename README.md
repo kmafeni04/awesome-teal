@@ -59,6 +59,10 @@ Teal is a dialect of [Lua](http://lua.org) which adds a static type system.
 * [**nvim-teal-maker**](https://github.com/svermeulen/nvim-teal-maker) - Neovim plugin that adds plugin support for teal language
 * [**text-to-colorscheme**](https://github.com/svermeulen/text-to-colorscheme) - Neovim plugin that auto generates color schemes based on text prompt
 
+## Game development
+
+* [**Tecs**](https://github.com/tecs-dev/tecs) - A GPU-driven 2D engine for games based on Teal and LuaJIT.
+
 ## Your project here!
 
 Are you using Teal? Do you have a project or know one using it? Send a pull request to this repository
